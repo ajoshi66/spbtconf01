@@ -32,5 +32,5 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 wordConfig:
-  data: New Word was
-  newData: Spring Cloud Conductor
+  data: Old Word was
+  newData: Spring Cloud Bus 210N
